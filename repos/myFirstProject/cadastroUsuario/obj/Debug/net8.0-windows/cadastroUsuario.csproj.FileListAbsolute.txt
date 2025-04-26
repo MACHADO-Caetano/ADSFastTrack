@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\bin\Debug\net8.0-windows\cadastroUsuario.exe
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\bin\Debug\net8.0-windows\cadastroUsuario.deps.json
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\bin\Debug\net8.0-windows\cadastroUsuario.runtimeconfig.json
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\bin\Debug\net8.0-windows\cadastroUsuario.dll
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\bin\Debug\net8.0-windows\cadastroUsuario.pdb
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.Form1.resources
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.sourcelink.json
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.dll
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\refint\cadastroUsuario.dll
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.pdb
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\cadastroUsuario.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\myFirstProject\cadastroUsuario\obj\Debug\net8.0-windows\ref\cadastroUsuario.dll
